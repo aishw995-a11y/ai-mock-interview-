@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAI – AI-Powered Mock Interview & Evaluation System",
+  "description": "Practice realistic mock interviews, receive instant AI-powered feedback, and build the confidence to land your dream job.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
